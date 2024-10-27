@@ -1,0 +1,2032 @@
+find:9
+down:9
+few:9
+its:9
+sure:9
+player:9
+left:9
+together:9
+along:9
+tv:9
+until:9
+yes:9
+records:9
+place:9
+right:9
+karen:9
+didn:10
+also:10
+into:10
+god:10
+home:10
+amazing:10
+awesome:10
+60s:10
+kind:10
+real:10
+use:10
+14:10
+changed:10
+hit:10
+friends:10
+younger:10
+teen:10
+40:10
+friend:10
+bringing:10
+knew:10
+once:10
+summer:10
+before:11
+words:11
+tune:11
+born:11
+house:11
+late:11
+remind:11
+going:11
+want:11
+big:11
+other:11
+classic:11
+classic	back:9
+which:11
+lost:11
+went:11
+here:11
+brother:11
+through:11
+night:11
+nice:11
+older:11
+1963:11
+car:11
+around:12
+grew:12
+grew	up:11
+people:12
+your:12
+fantastic:12
+forever:12
+name:12
+70s:12
+youth:12
+dancing:12
+80s:12
+50:12
+their:12
+sister:12
+age:13
+think:13
+rip:13
+while:13
+last:13
+10:13
+10	years:10
+eyes:13
+lyrics:13
+even:13
+80:13
+80	back:9
+later:14
+make:14
+hearing:14
+missed:14
+made:14
+country:14
+country	music:9
+during:14
+growing:14
+growing	up:13
+tears:14
+brought:14
+brought	memories:9
+brought	back:9
+take:14
+take	back:10
+don:14
+do:15
+dance:15
+singer:15
+father:15
+father	when:9
+too:15
+boy:15
+boy	when:11
+see:15
+where:15
+yesterday:15
+yesterday	back:9
+sang:15
+man:15
+past:15
+listened:16
+lot:16
+lot	memories:10
+lot	back:11
+if:16
+live:16
+live	back:10
+world:16
+died:16
+gone:16
+mother:16
+nostalgia:16
+feel:16
+most:17
+us:17
+us	for:9
+come:17
+come	back:12
+come	back	memories:10
+come	memories:13
+wow:17
+wow	back:9
+2019:17
+2019	memories:9
+teenager:18
+teenager	when:9
+heart:18
+record:18
+record	on:9
+60:18
+get:18
+get	when:11
+more:18
+know:18
+oh:18
+no:19
+reeves:19
+reeves	jim:17
+because:19
+cry:19
+nostalgic:19
+parents:19
+parents	when:9
+being:19
+being	back:9
+way:19
+way	on:9
+early:20
+early	back:11
+well:20
+did:20
+lovely:20
+girl:20
+girl	on:9
+girl	when:10
+sweet:21
+got:21
+got	when:9
+got	years:9
+got	so:9
+got	that:9
+got	for:10
+over:21
+over	years:10
+70:21
+been:21
+been	years:9
+been	have:14
+since:22
+since	have:9
+since	so:9
+high:22
+high	when:9
+high	school:20
+playing:22
+playing	remember:10
+playing	on:13
+memory:23
+bring:23
+bring	memories:12
+back	bring	memories:12
+bring	back:22
+long:23
+long	that:9
+long	time:11
+sad:23
+sad	when:9
+sad	back:9
+sad	so:10
+sad	that:14
+child:24
+child	when:10
+child	as:11
+year:24
+year	on:9
+year	that:9
+year	years:9
+year	for:9
+year	old:12
+jim:25
+jim	his:9
+jim	memories:10
+away:25
+away	when:9
+away	passed:13
+by:25
+by	years:9
+by	back:10
+by	for:10
+has:25
+has	on:9
+has	years:10
+has	so:11
+has	back:12
+has	when:12
+today:25
+today	back:10
+today	so:10
+about:25
+about	old:9
+about	now:9
+about	that:10
+about	when:14
+could:25
+could	years:9
+could	back:15
+could	wish:15
+could	wish	back:10
+kid:26
+kid	when:20
+only:26
+only	years:9
+only	when:10
+only	back:12
+such:26
+such	back:10
+such	memories:11
+them:26
+them	when:10
+them	so:11
+or:26
+or	that:9
+or	back:10
+or	so:10
+or	on:11
+or	now:11
+or	when:11
+or	years:12
+or	old:12
+or	old	years:9
+wish:26
+wish	so:9
+wish	back:13
+singing:27
+singing	remember:9
+singing	years:10
+singing	when:12
+mom:27
+mom	dad:9
+mom	memories:10
+mom	when:11
+an:28
+an	had:9
+an	time:9
+an	on:10
+an	with:10
+an	as:10
+an	that:11
+an	when:14
+ever:28
+ever	best:9
+ever	time:9
+ever	when:13
+came:28
+came	old:9
+came	now:9
+came	that:11
+came	on:11
+came	years:12
+came	back:12
+came	out:16
+came	out	when:13
+came	when:19
+some:28
+some	brings:9
+some	brings	back:9
+some	brings	memories:9
+back	some	brings	memories:9
+some	years:9
+some	for:10
+some	memories:14
+some	memories	back:13
+some	back:19
+would:28
+would	sing:9
+would	when:11
+would	on:11
+would	back:12
+will:28
+will	back:9
+will	on:9
+will	music:9
+will	never:9
+will	when:9
+will	time:9
+will	we:11
+will	be:11
+will	love:11
+will	memories:12
+will	always:12
+go:28
+go	memories:9
+go	so:9
+go	time:13
+go	time	back:9
+go	back:19
+day:28
+day	years:9
+day	for:9
+day	remember:9
+day	time:9
+day	have:10
+day	back:11
+day	when:11
+day	that:11
+little:29
+little	back:9
+little	so:9
+little	remember:9
+little	when:18
+mum:29
+mum	miss:9
+mum	when:10
+mum	dad:11
+mum	on:13
+takes:30
+takes	back:29
+favorite:30
+favorite	memories:9
+favorite	back:9
+favorite	when:11
+passed:30
+passed	with:9
+passed	he:10
+passed	so:10
+passed	when:11
+passed	years:12
+after:30
+after	for:9
+after	her:9
+after	back:9
+after	that:9
+after	we:9
+after	still:10
+after	on:11
+after	love:12
+after	love	years:10
+after	years:18
+our:31
+our	remember:9
+our	music:9
+our	for:10
+our	back:11
+our	when:12
+our	with:12
+our	we:12
+our	on:13
+makes:31
+makes	back:9
+makes	memories:10
+makes	love:10
+makes	so:11
+makes	that:13
+wonderful:31
+wonderful	for:9
+wonderful	with:11
+wonderful	on:12
+wonderful	back:13
+wonderful	back	memories:9
+wonderful	so:13
+wonderful	memories:16
+who:32
+who	so:9
+who	have:10
+who	is:11
+who	with:11
+who	back:12
+who	when:13
+there:32
+there	for:9
+there	that:9
+there	from:9
+there	are:10
+there	when:11
+there	have:12
+there	is:13
+there	so:14
+there	back:14
+play:33
+play	on:9
+play	used:11
+play	when:17
+really:33
+really	at:9
+really	now:9
+really	time:9
+really	when:9
+really	years:12
+radio:34
+radio	time:9
+radio	from:9
+radio	remember:9
+radio	for:10
+radio	that:11
+radio	back:12
+radio	back	on:9
+radio	when:14
+radio	when	on:12
+radio	on:26
+life:35
+life	memories:9
+life	time:9
+life	that:10
+life	love:10
+life	you:10
+life	when:11
+life	so:11
+life	back:12
+life	on:14
+then:36
+then	had:9
+then	with:9
+then	when:10
+then	memories:11
+then	so:12
+then	so	back:9
+then	on:12
+then	on	back:10
+then	now:12
+then	now	back:9
+then	back:25
+ago:36
+ago	back:9
+ago	remember:9
+ago	with:9
+ago	so:9
+ago	is:11
+ago	when:12
+ago	when	years:10
+ago	years:26
+again:36
+again	when:9
+again	that:10
+again	love:10
+again	on:11
+again	for:11
+again	time:13
+again	back:14
+again	years:16
+thanks:36
+thanks	remember:9
+thanks	back:14
+thanks	back	memories:9
+thanks	memories:17
+thanks	memories	for:11
+thanks	for:23
+how:37
+how	miss:9
+how	love:9
+how	old:9
+how	had:10
+how	remember:10
+how	time:11
+how	that:11
+how	on:12
+how	memories:12
+how	when:12
+how	so:14
+how	back:16
+they:37
+they	all:9
+they	for:10
+they	never:11
+they	are:11
+they	so:11
+they	music:11
+they	back:13
+they	when:14
+they	were:14
+happy:37
+happy	we:9
+happy	now:9
+happy	days:9
+happy	so:10
+happy	when:14
+happy	back:16
+happy	back	memories:11
+happy	memories:22
+out:38
+out	as:9
+out	now:9
+out	time:9
+out	at:9
+out	so:9
+out	have:11
+out	just:12
+out	memories:12
+out	back:13
+out	back	that:9
+out	back	when:11
+out	years:13
+out	for:13
+out	for	that:9
+out	old:13
+out	old	years:10
+out	on:14
+out	that:16
+out	that	when:10
+out	when:20
+him:39
+him	years:9
+him	always:9
+him	you:10
+him	miss:10
+him	memories:10
+him	so:11
+him	reminds:11
+him	on:11
+him	with:13
+him	his:13
+him	when:15
+him	when	he:11
+him	he:17
+are:39
+are	you:10
+are	these:10
+are	all:10
+are	on:11
+are	that:11
+are	we:11
+are	but:11
+are	songs:11
+are	back:11
+are	love:11
+are	when:13
+are	so:14
+are	for:14
+are	music:15
+are	memories:16
+sing:39
+sing	that:9
+sing	dad:9
+sing	on:9
+sing	she:9
+sing	love:9
+sing	back:10
+sing	we:10
+sing	is:10
+sing	with:10
+sing	when:15
+sing	used:16
+thank:39
+thank	much:9
+thank	much	you:9
+thank	on:9
+thank	on	you:9
+thank	remember:10
+thank	remember	you:9
+thank	so:12
+thank	so	you:11
+thank	back:12
+thank	back	you:12
+thank	memories:17
+thank	memories	you:17
+thank	for:18
+you	thank	for:18
+thank	you:37
+best:39
+best	love:9
+best	when:9
+best	music:9
+best	with:12
+best	memories:13
+best	memories	back:10
+best	back:19
+not:40
+not	time:9
+not	with:9
+not	just:9
+not	on:10
+not	still:11
+not	still	when:9
+not	memories:11
+not	for:11
+not	but:12
+not	but	when:9
+not	old:12
+not	old	when:9
+not	back:13
+not	that:15
+not	that	when:11
+not	years:15
+not	when:21
+very:40
+very	back:9
+very	much:9
+very	remember:10
+very	is:10
+very	had:10
+very	so:10
+very	years:11
+very	for:15
+very	when:16
+played:41
+played	all:9
+played	great:10
+played	with:11
+played	remember:11
+played	we:12
+played	so:12
+played	on:13
+played	on	when:10
+played	memories:14
+played	memories	back:9
+played	back:17
+played	back	when:10
+played	when:23
+what:41
+what	on:9
+what	for:10
+what	when:11
+what	remember:12
+what	memories:13
+what	great:13
+what	that:14
+what	back:19
+these:42
+these	you:9
+these	music:9
+these	great:9
+these	that:10
+these	years:11
+these	love:11
+these	for:12
+these	memories:16
+these	memories	songs:9
+these	back:18
+these	back	songs:11
+these	songs:20
+hear:43
+hear	years:9
+hear	is:9
+hear	from:9
+hear	memories:9
+hear	love:9
+hear	you:10
+hear	with:10
+hear	that:11
+hear	so:12
+hear	on:13
+hear	on	when:9
+hear	time:13
+hear	back:15
+hear	when:22
+she:43
+she	memories:9
+she	just:9
+she	love:9
+she	so:10
+she	all:10
+she	is:10
+she	with:10
+she	now:11
+she	we:11
+she	back:11
+she	for:12
+she	years:13
+she	that:13
+she	remember:13
+she	on:14
+she	her:15
+she	when:20
+those:43
+those	years:9
+those	remember:9
+those	that:9
+those	just:9
+those	old:10
+those	now:10
+those	so:11
+those	with:11
+those	all:11
+those	when:12
+those	miss:12
+those	is:13
+those	memories:16
+those	back:17
+those	back	days:11
+those	days:23
+listen:43
+listen	old:9
+listen	just:9
+listen	memories:9
+listen	we:10
+listen	that:11
+listen	years:13
+listen	so:14
+listen	time:14
+listen	when:18
+his:44
+his	remember:9
+his	for:9
+his	one:9
+his	voice:9
+his	years:9
+his	you:9
+his	songs:9
+his	as:10
+his	is:10
+his	have:10
+his	music:11
+his	memories:11
+his	love:11
+his	on:12
+his	on	when:9
+his	back:12
+his	so:13
+his	with:13
+his	he:16
+his	he	when:10
+his	when:20
+were:44
+were	as:9
+were	great:10
+were	love:10
+were	with:11
+were	memories:11
+were	for:11
+were	on:12
+were	that:12
+were	so:14
+were	back:15
+were	we:17
+were	we	when:11
+were	when:20
+every:44
+every	so:9
+every	on:10
+every	with:10
+every	back:10
+every	for:10
+every	we:10
+every	that:11
+every	memories:12
+every	when:14
+every	time:14
+can:44
+can	memories:9
+can	for:9
+can	with:9
+can	is:9
+can	be:9
+can	first:9
+can	now:10
+can	music:10
+can	never:10
+can	that:11
+can	love:11
+can	time:11
+can	years:11
+can	you:13
+can	remember:13
+can	remember	when:9
+can	on:16
+can	so:17
+can	back:18
+can	when:20
+young:44
+young	memories:9
+young	years:10
+young	but:10
+young	on:11
+young	we:11
+young	for:12
+young	love:12
+young	remember:16
+young	remember	when:9
+young	when:29
+heard:45
+heard	so:9
+heard	now:9
+heard	just:9
+heard	you:9
+heard	old:9
+heard	have:10
+heard	remember:10
+heard	is:10
+heard	back:11
+heard	from:11
+heard	still:12
+heard	on:12
+heard	for:14
+heard	years:15
+heard	years	when:9
+heard	years	that:9
+heard	first:17
+heard	first	time:12
+heard	that:17
+heard	that	when:9
+heard	time:18
+heard	when:27
+times:45
+times	great:11
+times	when:12
+times	good:12
+times	back:20
+never:46
+never	you:9
+never	memories:9
+never	for:9
+never	great:10
+never	so:10
+never	be:10
+never	on:10
+never	with:10
+never	now:11
+never	we:11
+never	old:11
+never	time:12
+never	when:12
+never	music:12
+never	is:13
+never	years:15
+never	love:16
+never	that:16
+never	back:17
+used:46
+used	years:9
+used	time:9
+used	at:10
+used	for:10
+used	memories:10
+used	with:10
+used	so:11
+used	we:11
+used	back:11
+used	on:13
+used	on	when:9
+used	when:22
+am:46
+am	childhood:9
+am	is:9
+am	time:9
+am	have:9
+am	still:9
+am	memories:10
+am	love:11
+am	old:11
+am	for:12
+am	so:12
+am	remember:12
+am	years:13
+am	but:14
+am	back:14
+am	now:15
+am	now	when:11
+am	on:16
+am	when:23
+be:46
+be	time:9
+be	but:9
+be	memories:9
+be	now:10
+be	music:10
+be	always:10
+be	voice:10
+be	is:12
+be	old:13
+be	old	when:9
+be	so:13
+be	remember:14
+be	remember	when:9
+be	that:14
+be	years:14
+be	on:14
+be	with:16
+be	with	when:10
+be	back:18
+be	when:18
+be	when	back:9
+voice:47
+voice	love:9
+voice	music:9
+voice	had:9
+voice	memories:9
+voice	still:10
+voice	as:10
+voice	her:10
+voice	that:10
+voice	on:12
+voice	beautiful:12
+voice	with:13
+voice	back:14
+voice	so:15
+voice	so	great:9
+voice	remember:15
+voice	great:16
+voice	when:16
+one:47
+one	time:9
+one	all:9
+one	on:10
+one	that:10
+one	at:10
+one	as:10
+one	is:11
+one	years:11
+one	love:12
+one	songs:12
+one	for:12
+one	when:12
+one	back:13
+one	so:13
+one	memories:14
+one	with:15
+her:48
+her	time:9
+her	but:9
+her	miss:10
+her	for:10
+her	love:11
+her	that:12
+her	that	years:10
+her	old:12
+her	old	years:11
+her	memories:13
+her	remember:13
+her	remember	on:9
+her	remember	when:9
+her	back:14
+her	with:15
+her	so:15
+her	we:16
+her	we	when:9
+her	we	years:9
+her	on:16
+her	on	when:10
+her	on	years:10
+her	when:20
+her	years:20
+her	years	when:9
+school:49
+school	at:9
+school	memories:9
+school	on:9
+school	remember:9
+school	time:9
+school	for:9
+school	old:10
+school	love:10
+school	so:11
+school	with:11
+school	that:13
+school	back:16
+school	when:19
+like:50
+like	time:9
+like	from:9
+like	songs:9
+like	on:9
+like	so:10
+like	now:10
+like	memories:10
+like	remember:10
+like	is:10
+like	good:10
+like	just:11
+like	with:11
+like	for:12
+like	but:12
+like	old:12
+like	old	years:10
+like	that:16
+like	that	years:9
+like	that	when:11
+like	years:19
+like	years	when:10
+like	years	back:12
+like	back:22
+like	when:23
+dad:50
+dad	back:9
+dad	time:9
+dad	much:10
+dad	always:10
+dad	years:10
+dad	so:10
+dad	for:11
+dad	you:11
+dad	reminds:12
+dad	memories:12
+dad	remember:13
+dad	miss:14
+dad	on:16
+dad	when:20
+he:50
+he	is:9
+he	for:9
+he	remember:10
+he	had:10
+he	that:10
+he	but:11
+he	much:11
+he	much	so:11
+he	have:11
+he	back:11
+he	dad:13
+he	love:13
+he	always:14
+he	always	when:9
+he	years:15
+he	on:15
+he	so:17
+he	so	when:9
+he	with:18
+he	with	when:10
+he	when:25
+up:51
+up	old:9
+up	remember:10
+up	on:10
+up	is:10
+up	we:10
+up	music:11
+up	for:12
+up	love:12
+up	that:12
+up	so:13
+up	back:13
+up	memories:13
+up	years:13
+up	when:16
+up	with:16
+loved:52
+loved	have:9
+loved	songs:9
+loved	great:9
+loved	music:9
+loved	much:10
+loved	much	so:10
+loved	years:10
+loved	we:10
+loved	with:10
+loved	but:11
+loved	memories:11
+loved	for:12
+loved	on:12
+loved	back:13
+loved	so:15
+loved	so	when:9
+loved	when:24
+much:55
+much	that:9
+much	still:9
+much	for:11
+much	love:12
+much	love	so:11
+much	reminds:12
+much	on:12
+much	on	so:9
+much	had:14
+much	had	so:13
+much	memories:14
+much	memories	so:13
+much	years:17
+much	years	so:11
+much	back:17
+much	back	so:15
+much	when:20
+much	when	so:18
+much	miss:20
+much	miss	so:16
+much	you:20
+much	you	so:16
+much	so:46
+listening:58
+listening	still:9
+listening	from:9
+listening	we:9
+listening	is:10
+listening	so:10
+listening	old:10
+listening	brings:10
+listening	brings	back:9
+listening	on:11
+listening	with:11
+listening	music:12
+listening	for:12
+listening	years:13
+listening	remember:13
+listening	that:13
+listening	when:18
+listening	memories:19
+listening	memories	back:10
+listening	back:23
+had:59
+had	at:9
+had	just:9
+had	good:9
+had	all:9
+had	but:9
+had	days:9
+had	remember:10
+had	is:10
+had	for:10
+had	great:10
+had	have:10
+had	memories:12
+had	old:12
+had	old	years:11
+had	as:12
+had	love:12
+had	we:13
+had	we	when:9
+had	music:13
+had	music	back:9
+had	with:14
+had	time:14
+had	years:19
+had	years	that:10
+had	on:21
+had	on	so:9
+had	on	back:10
+had	on	when:11
+had	that:21
+had	that	on:9
+had	that	when:10
+had	that	back:13
+had	back:22
+had	back	so:10
+had	when:23
+had	when	so:9
+had	so:24
+many:61
+many	is:9
+many	beautiful:9
+many	for:9
+many	all:9
+many	have:9
+many	that:10
+many	now:10
+many	music:10
+many	songs:12
+many	years:13
+many	love:14
+many	love	so:10
+many	time:14
+many	time	memories:10
+many	time	memories	so:9
+many	time	back:10
+many	time	so:11
+many	brings:19
+many	brings	so:16
+many	brings	so	back:14
+memories	many	brings	so	back:14
+many	brings	so	memories:16
+many	brings	back:17
+memories	many	brings	back:17
+many	brings	memories:19
+many	back:29
+many	back	so:21
+many	back	so	memories:19
+many	back	memories:23
+many	so:42
+many	so	memories:36
+many	memories:43
+first:61
+first	with:9
+first	brings:9
+first	so:10
+first	music:10
+first	old:12
+first	now:12
+first	love:13
+first	back:15
+first	is:15
+first	memories:15
+first	for:16
+first	for	on:9
+first	that:17
+first	that	years:9
+first	years:17
+first	remember:19
+first	remember	when:10
+first	time:19
+first	on:19
+first	on	when:9
+first	when:22
+always:62
+always	that:9
+always	reminds:9
+always	music:9
+always	have:9
+always	for:10
+always	now:10
+always	time:10
+always	miss:11
+always	you:11
+always	is:11
+always	remember:12
+always	but:13
+always	memories:16
+always	memories	back:9
+always	love:16
+always	with:16
+always	with	when:10
+always	back:18
+always	so:19
+always	so	when:9
+always	on:19
+always	on	when:11
+always	when:27
+songs:62
+songs	from:9
+songs	old:9
+songs	is:10
+songs	great:11
+songs	have:11
+songs	you:11
+songs	but:11
+songs	time:11
+songs	when:12
+songs	years:12
+songs	brings:12
+songs	brings	memories:10
+songs	for:12
+songs	just:13
+songs	with:13
+songs	with	so:9
+songs	all:14
+songs	that:14
+songs	so:18
+songs	memories:19
+songs	memories	love:9
+songs	memories	back:10
+songs	love:20
+songs	back:21
+still:64
+still	you:9
+still	we:9
+still	miss:9
+still	with:10
+still	from:10
+still	time:11
+still	old:11
+still	old	years:9
+still	have:12
+still	for:12
+still	that:13
+still	that	when:10
+still	so:13
+still	on:15
+still	remember:15
+still	now:16
+still	now	when:9
+still	but:16
+still	is:17
+still	is	when:9
+still	is	years:9
+still	love:18
+still	love	years:9
+still	memories:18
+still	memories	when:9
+still	memories	back:9
+still	back:20
+still	back	when:13
+still	years:24
+still	years	when:12
+still	when:28
+have:64
+have	childhood:9
+have	beautiful:9
+have	old:9
+have	we:10
+have	as:10
+have	at:10
+have	all:10
+have	you:10
+have	now:11
+have	remember:11
+have	from:11
+have	with:12
+have	but:13
+have	when:13
+have	love:14
+have	that:14
+have	for:15
+have	back:16
+have	time:16
+have	on:17
+have	is:18
+have	years:18
+have	so:18
+have	memories:19
+just:64
+just	days:9
+just	music:9
+just	is:9
+just	as:10
+just	have:10
+just	from:10
+just	we:10
+just	great:12
+just	now:12
+just	all:12
+just	remember:12
+just	at:12
+just	time:14
+just	love:14
+just	love	so:9
+just	old:14
+just	old	years:12
+just	but:15
+just	on:15
+just	memories:16
+just	memories	back:9
+just	for:18
+just	for	that:11
+just	with:18
+just	years:19
+just	years	that:9
+just	years	when:9
+just	that:20
+just	back:24
+just	when:24
+just	so:26
+at:68
+at	music:9
+at	but:11
+at	as:11
+at	great:12
+at	for:12
+at	with:13
+at	so:16
+at	old:16
+at	old	years:11
+at	years:16
+at	love:16
+at	we:17
+at	memories:18
+at	remember:19
+at	back:20
+at	back	that:10
+at	when:21
+at	on:21
+at	on	that:10
+at	time:21
+at	time	that:13
+at	that:22
+as:68
+as	from:9
+as	you:9
+as	great:9
+as	love:12
+as	now:13
+as	beautiful:13
+as	music:13
+as	old:14
+as	remember:14
+as	we:15
+as	memories:17
+as	years:17
+as	that:17
+as	with:17
+as	on:18
+as	time:18
+as	back:19
+as	back	when:9
+as	is:19
+as	is	when:9
+as	so:19
+as	for:20
+as	when:20
+from:70
+from	love:9
+from	time:9
+from	music:9
+from	we:9
+from	brings:10
+from	brings	back:10
+from	you:10
+from	old:10
+from	so:11
+from	that:12
+from	childhood:13
+from	now:14
+from	for:14
+from	remember:14
+from	with:15
+from	great:15
+from	is:15
+from	on:16
+from	on	when:9
+from	memories:16
+from	memories	back:9
+from	years:18
+from	years	when:12
+from	back:22
+from	back	when:9
+from	when:28
+good:70
+good	but:9
+good	we:9
+good	time:10
+good	remember:10
+good	love:11
+good	love	memories:9
+good	love	back:9
+good	music:11
+good	music	memories:9
+good	on:13
+good	for:13
+good	so:15
+good	so	memories:9
+good	so	back:10
+good	years:16
+good	years	that:9
+good	years	back:11
+good	days:18
+good	days	old:16
+good	that:19
+good	that	when:9
+good	that	memories:10
+good	that	back:11
+good	when:19
+good	when	memories:9
+good	brings:21
+good	brings	back:18
+good	brings	back	memories:16
+good	brings	memories:19
+good	old:24
+good	old	back:10
+good	back:35
+good	back	memories:21
+good	memories:36
+all:70
+all	but:10
+all	remember:12
+all	you:12
+all	now:12
+all	brings:13
+all	brings	memories:11
+all	brings	memories	back:10
+all	brings	back:12
+all	great:13
+all	we:13
+all	music:15
+all	music	that:9
+all	for:15
+all	with:16
+all	years:16
+all	love:16
+all	when:17
+all	on:17
+all	on	back:9
+all	on	that:11
+all	so:18
+all	time:20
+all	time	back:10
+all	that:21
+all	that	back:13
+all	memories:28
+all	memories	back:20
+all	back:33
+reminds:74
+reminds	with:9
+reminds	on:11
+reminds	miss:11
+reminds	years:12
+reminds	so:12
+reminds	days:13
+reminds	love:20
+reminds	when:23
+now:74
+now	you:9
+now	great:9
+now	childhood:9
+now	for:16
+now	music:16
+now	remember:19
+now	remember	old:9
+now	remember	when:10
+now	that:19
+now	that	back:10
+now	that	years:10
+now	that	when:11
+now	love:19
+now	time:19
+now	time	when:9
+now	time	love:10
+now	so:20
+now	so	when:10
+now	memories:20
+now	memories	back:9
+now	memories	when:10
+now	on:20
+now	on	back:9
+now	on	with:10
+now	on	when:12
+now	is:20
+now	is	on:9
+now	is	with:9
+now	is	years:10
+now	is	when:11
+now	with:21
+now	with	years:10
+now	with	when:11
+now	old:24
+now	old	back:9
+now	old	when:14
+now	old	when	years:9
+now	old	years:15
+now	years:26
+now	years	back:12
+now	years	when:15
+now	back:28
+now	back	when:16
+now	when:38
+we:74
+we	brings:9
+we	but:9
+we	miss:9
+we	now:10
+we	remember:12
+we	is:12
+we	old:12
+we	old	years:9
+we	great:13
+we	music:14
+we	memories:19
+we	memories	back:11
+we	love:19
+we	love	with:9
+we	for:19
+we	for	that:11
+we	so:20
+we	so	when:9
+we	years:20
+we	years	when:9
+we	years	on:9
+we	time:20
+we	with:22
+we	with	back:10
+we	with	when:12
+we	that:22
+we	that	on:12
+we	that	on	when:9
+we	that	back:13
+we	that	back	when:9
+we	that	when:13
+we	on:23
+we	on	back:11
+we	on	when:13
+we	back:27
+we	back	when:12
+we	when:31
+miss:74
+miss	brings:9
+miss	childhood:9
+miss	music:9
+miss	with:9
+miss	but:10
+miss	days:11
+miss	remember:11
+miss	beautiful:11
+miss	that:12
+miss	for:13
+miss	years:13
+miss	love:14
+miss	on:17
+miss	you:18
+miss	memories:19
+miss	memories	back:12
+miss	back:20
+miss	when:20
+miss	when	so:9
+miss	so:24
+beautiful:75
+beautiful	on:10
+beautiful	you:10
+beautiful	time:11
+beautiful	brings:11
+beautiful	brings	memories:9
+beautiful	remember:12
+beautiful	love:12
+beautiful	years:14
+beautiful	with:14
+beautiful	for:15
+beautiful	that:16
+beautiful	is:17
+beautiful	is	memories:10
+beautiful	when:19
+beautiful	back:21
+beautiful	back	memories:11
+beautiful	so:25
+beautiful	so	memories:9
+beautiful	memories:27
+childhood:75
+childhood	so:9
+childhood	on:9
+childhood	old:9
+childhood	years:10
+childhood	beautiful:11
+childhood	brings:12
+childhood	brings	back:10
+childhood	is:12
+childhood	when:12
+childhood	love:12
+childhood	memories:27
+childhood	memories	back:12
+childhood	back:28
+but:78
+but	great:9
+but	old:11
+but	old	years:9
+but	time:14
+but	remember:14
+but	with:15
+but	is:15
+but	so:17
+but	on:19
+but	that:20
+but	that	when:9
+but	that	for:10
+but	love:20
+but	memories:21
+but	for:21
+but	for	when:10
+but	years:22
+but	back:22
+but	back	when:10
+but	when:29
+days:78
+days	that:9
+days	years:10
+days	for:10
+days	remember:10
+days	you:10
+days	time:10
+days	is:12
+days	so:13
+days	on:15
+days	on	when:10
+days	memories:18
+days	when:21
+days	old:28
+days	old	back:10
+days	back:32
+music:89
+music	old:14
+music	brings:14
+music	brings	back:11
+music	brings	memories:11
+music	brings	memories	back:9
+music	great:17
+music	great	memories:9
+music	for:17
+music	for	back:9
+music	remember:17
+music	time:18
+music	time	so:9
+music	with:18
+music	years:20
+music	years	back:9
+music	on:20
+music	on	when:9
+music	on	memories:9
+music	on	years:9
+music	is:21
+music	that:23
+music	that	memories:11
+music	that	when:12
+music	that	back:12
+music	so:24
+music	so	back:9
+music	so	when:10
+music	love:26
+music	memories:28
+music	memories	back:13
+music	when:31
+music	back:32
+you:89
+you	with:11
+you	great:12
+you	is:12
+you	brings:13
+you	brings	memories:10
+you	brings	back:11
+you	years:15
+you	that:16
+you	old:16
+you	time:17
+you	on:17
+you	remember:18
+you	music:19
+you	love:24
+you	love	memories:9
+you	love	back:9
+you	love	so:10
+you	when:25
+you	for:27
+you	for	memories:9
+you	back:31
+you	back	memories:17
+you	so:31
+you	so	memories:11
+you	so	back:12
+you	memories:32
+great:93
+great	is:11
+great	old:11
+great	years:12
+great	love:12
+great	remember:12
+great	that:14
+great	brings:15
+great	brings	memories:14
+back	great	brings	memories:14
+great	brings	back:15
+great	with:15
+great	time:16
+great	for:18
+great	on:19
+great	so:19
+great	when:20
+great	back:32
+great	back	memories:17
+great	memories:37
+is:97
+is	brings:14
+is	brings	memories:10
+is	brings	back:12
+is	old:16
+is	old	years:12
+is	for:17
+is	time:19
+is	on:20
+is	on	when:10
+is	on	years:11
+is	with:21
+is	love:22
+is	that:22
+is	so:23
+is	so	back:9
+is	so	when:9
+is	remember:24
+is	remember	when:10
+is	years:27
+is	years	when:9
+is	years	back:11
+is	memories:28
+is	memories	back:14
+is	back:30
+is	when:30
+is	when	back:12
+brings:103
+brings	for:12
+brings	for	back:11
+brings	time:12
+brings	time	back:10
+memories	brings	time	back:10
+brings	time	memories:12
+brings	old:15
+brings	old	memories:9
+brings	old	years:10
+back	brings	old	years:10
+brings	old	back:14
+brings	love:20
+brings	love	memories:15
+brings	love	memories	back:13
+brings	love	back:17
+brings	that:20
+brings	that	when:9
+brings	that	years:9
+brings	that	years	back:9
+brings	that	memories:15
+brings	that	memories	back:13
+brings	that	back:18
+brings	years:21
+brings	years	memories:12
+brings	years	memories	back:11
+brings	years	back:20
+brings	when:24
+brings	when	memories:18
+brings	when	memories	back:16
+brings	when	back:21
+brings	so:27
+brings	so	back:23
+brings	so	back	memories:21
+brings	so	memories:25
+brings	memories:83
+brings	memories	back:74
+brings	back:91
+with:107
+with	that:18
+with	old:20
+with	old	on:10
+with	old	years:12
+with	time:21
+with	time	when:9
+with	for:21
+with	so:25
+with	so	memories:10
+with	remember:26
+with	remember	when:12
+with	remember	on:12
+with	love:27
+with	love	years:9
+with	love	on:10
+with	years:28
+with	years	back:9
+with	years	when:10
+with	years	on:13
+with	memories:29
+with	memories	back:10
+with	back:30
+with	back	on:11
+with	back	when:14
+with	on:35
+with	on	when:15
+with	when:39
+old:108
+old	time:17
+old	time	years:10
+old	for:20
+old	for	years:16
+old	so:22
+old	so	years:12
+old	love:23
+old	love	on:9
+old	love	years:11
+old	remember:23
+old	remember	that:10
+old	remember	that	years:10
+old	remember	years:14
+old	remember	when:14
+old	remember	when	years:9
+old	memories:25
+old	memories	on:10
+old	memories	back:11
+old	memories	years:13
+old	that:25
+old	that	on:10
+old	that	on	years:9
+old	that	back:10
+old	that	back	years:10
+old	that	when:14
+old	that	when	years:12
+old	that	years:21
+old	on:28
+old	on	back:10
+old	on	back	when:9
+old	on	when:13
+old	on	when	years:9
+old	on	years:19
+old	back:35
+old	back	when:14
+old	back	when	years:10
+old	back	years:21
+old	when:41
+old	when	years:25
+old	years:55
+that:113
+that	love:25
+that	love	memories:10
+that	love	back:11
+that	remember:27
+that	remember	for:9
+that	remember	back:9
+that	remember	on:10
+that	remember	when:11
+that	remember	years:13
+that	so:28
+that	so	on:9
+that	so	when:10
+that	so	memories:11
+that	so	back:13
+that	memories:31
+that	memories	when:11
+that	memories	back:18
+that	on:32
+that	on	when:11
+that	on	years:14
+that	on	back:14
+that	for:32
+that	for	back:12
+that	for	when:13
+that	for	years:13
+that	years:35
+that	years	when:15
+that	years	back:16
+that	back:40
+that	back	when:17
+that	when:42
+time:113
+time	remember:19
+time	remember	when:9
+time	years:20
+time	on:24
+time	on	when:10
+time	love:24
+time	for:27
+time	for	that:9
+time	for	when:11
+time	memories:28
+time	memories	so:11
+time	memories	back:16
+time	so:30
+time	so	when:12
+time	so	back:12
+time	that:31
+time	that	when:9
+time	that	back:11
+time	back:38
+time	back	when:13
+time	when:40
+remember:121
+remember	love:18
+remember	memories:20
+remember	memories	for:9
+remember	memories	back:12
+remember	so:21
+remember	back:22
+remember	back	when:9
+remember	back	on:9
+remember	back	for:10
+remember	for:29
+remember	for	when:10
+remember	for	years:11
+remember	years:29
+remember	years	when:13
+remember	on:35
+remember	on	when:18
+remember	when:51
+love:124
+love	for:21
+love	on:23
+love	on	years:9
+love	years:28
+love	years	back:10
+love	so:28
+love	so	memories:11
+love	when:32
+love	back:37
+love	back	memories:22
+love	memories:38
+for:125
+for	so:24
+for	years:31
+for	years	memories:10
+for	years	when:10
+for	years	on:11
+for	years	back:14
+for	on:32
+for	on	memories:9
+for	on	when:12
+for	on	back:14
+for	memories:37
+for	memories	back:19
+for	back:38
+for	back	when:15
+for	when:39
+on:128
+on	so:28
+on	so	years:9
+on	so	memories:9
+on	so	back:10
+on	memories:30
+on	memories	years:10
+on	memories	back:14
+on	years:37
+on	years	back:11
+on	years	when:13
+on	back:40
+on	back	when:19
+on	when:52
+years:136
+years	so:29
+years	so	memories:10
+years	so	back:11
+years	so	when:13
+years	memories:32
+years	memories	back:17
+years	when:46
+years	when	back:16
+years	back:51
+so:149
+so	when:50
+so	when	memories:12
+so	when	back:12
+so	back:51
+so	back	memories:28
+so	memories:57
+when:206
+when	memories:42
+when	memories	back:23
+when	back:55
+memories:227
+memories	back:117
+back:249

@@ -1,0 +1,869 @@
+favorites:9
+special:9
+soul:9
+mind:9
+60:9
+60s:9
+family:9
+ones:9
+things:9
+others:9
+pure:9
+please:9
+though:9
+wonder:9
+person:9
+sung:9
+year:9
+handsome:9
+perfect:9
+born:9
+ll:9
+happy:9
+almost:9
+end:9
+rock:10
+says:10
+other:10
+emotion:10
+tell:10
+movie:10
+believe:10
+thing:10
+ago:10
+friend:10
+lady:10
+sings:10
+down:10
+want:10
+understand:10
+generation:11
+hit:11
+which:11
+enjoy:11
+yes:11
+long:11
+put:11
+someone:11
+away:11
+work:11
+band:11
+does:11
+find:11
+called:11
+lol:11
+words:11
+didn:11
+voices:11
+eyes:11
+thought:11
+kind:11
+re:11
+dance:11
+lot:11
+pretty:11
+gonna:11
+sounds:12
+brilliant:12
+girl:12
+around:12
+tears:12
+single:12
+wrong:12
+tune:12
+few:12
+nowadays:12
+lovely:12
+times:12
+sure:12
+romantic:12
+guy:12
+play:13
+played:13
+nothing:13
+right:13
+seen:13
+something:13
+look:13
+our:13
+may:13
+being:13
+youtube:13
+new:14
+into:14
+name:14
+pop:14
+feeling:14
+same:14
+original:14
+era:14
+live:15
+us:15
+anymore:15
+should:15
+after:15
+without:15
+singers:16
+came:16
+again:16
+country:16
+forever:16
+sound:16
+little:16
+wow:16
+even:16
+say:16
+where:16
+feel:17
+true:17
+anyone:17
+fantastic:17
+another:17
+before:17
+over:17
+because:17
+back:18
+greatest:18
+makes:18
+makes	me:12
+age:19
+young:19
+go:19
+see:19
+days:20
+well:20
+wonderful:20
+made:20
+favorite:20
+thanks:20
+thanks	for:11
+ve:20
+ve	so:9
+got:20
+elvis:21
+every:21
+loved:21
+amazing:21
+classic:21
+them:21
+lyrics:21
+first:22
+first	was:9
+first	time:12
+their:22
+those:24
+those	music:9
+day:24
+then:24
+any:24
+any	one:9
+wish:24
+wish	was:10
+wish	have:10
+god:25
+or:25
+its:25
+nice:25
+did:25
+why:25
+make:25
+make	they:9
+make	like:10
+come:26
+singing:26
+sad:26
+sad	so:9
+way:26
+way	so:9
+real:26
+real	music:12
+life:27
+heart:27
+better:27
+better	than:15
+years:28
+years	old:10
+years	for:10
+were:28
+were	was:9
+were	they:11
+sing:29
+your:29
+version:29
+version	one:9
+version	but:10
+man:30
+man	he:10
+man	his:11
+some:30
+world:30
+than:30
+than	more:11
+heard:31
+heard	have:10
+people:31
+people	have:9
+people	music:10
+people	but:11
+listening:31
+most:31
+most	beautiful:9
+most	ever:10
+most	music:11
+most	one:16
+him:32
+him	all:9
+him	his:10
+him	for:11
+him	was:14
+him	he:14
+him	he	was:10
+get:32
+get	but:9
+video:32
+today:32
+today	can:9
+today	songs:10
+today	like:11
+today	music:13
+been:32
+been	for:10
+been	was:10
+been	he:10
+been	would:10
+been	so:11
+been	have:18
+such:34
+such	had:10
+such	beautiful:10
+such	voice:13
+too:34
+too	so:9
+too	like:9
+many:35
+many	for:9
+many	have:11
+many	great:11
+many	but:12
+many	so:19
+singer:35
+singer	so:10
+singer	great:10
+singer	he:11
+singer	was:12
+singer	all:14
+old:35
+old	songs:9
+here:35
+here	not:9
+listen:36
+listen	music:11
+listen	all:11
+had:36
+had	all:9
+had	he:9
+had	so:9
+had	was:10
+do:36
+do	have:12
+do	but:13
+do	not:14
+could:37
+could	have:9
+could	was:9
+there:37
+there	like:9
+there	for:9
+there	be:9
+there	have:10
+there	music:11
+there	with:11
+there	no:12
+there	but:13
+there	was:14
+up:37
+up	can:9
+up	beautiful:9
+up	one:9
+up	with:10
+an:37
+an	she:9
+an	so:9
+an	have:10
+hear:38
+hear	when:9
+am:38
+am	music:9
+am	not:9
+these:38
+these	all:9
+these	have:11
+these	songs:16
+very:40
+very	but:10
+very	much:10
+very	she:10
+very	music:13
+still:42
+still	for:9
+still	have:9
+still	all:11
+still	but:12
+still	was:12
+out:42
+out	music:9
+out	was:9
+out	like:9
+out	as:9
+out	so:12
+thank:43
+thank	so:12
+thank	so	much:10
+thank	much:15
+thank	much	for:9
+thank	for:26
+we:43
+we	with:9
+we	on:9
+we	music:10
+we	be:10
+we	for:10
+we	all:11
+we	have:13
+has:43
+has	what:9
+has	like:10
+has	music:10
+has	but:10
+has	all:12
+has	one:13
+would:43
+would	at:9
+would	on:9
+would	all:9
+would	he:11
+would	for:12
+would	was:12
+would	was	be:9
+would	if:14
+would	have:15
+would	be:19
+think:43
+think	about:9
+think	so:10
+think	music:11
+think	was:12
+think	but:13
+more:43
+more	me:9
+more	songs:9
+more	can:11
+more	with:11
+more	but:13
+more	like:13
+more	for:15
+more	have:17
+only:43
+only	was:9
+only	who:9
+only	one:13
+don:43
+don	know:9
+don	just:9
+don	what:10
+don	have:11
+don	like:12
+don	but:14
+don	they:14
+best:45
+best	have:9
+best	music:10
+best	he:10
+best	for:11
+best	ever:13
+if:46
+if	with:9
+if	so:9
+if	can:9
+if	was:9
+if	he:10
+if	me:11
+if	not:11
+if	for:13
+if	be:14
+by:46
+by	from:9
+by	not:9
+by	songs:9
+by	all:9
+by	great:10
+by	was:11
+by	but:12
+by	one:13
+how:46
+how	he:10
+ever:47
+ever	he:9
+ever	music:9
+ever	for:10
+ever	one:12
+ever	be:13
+ever	have:14
+really:48
+really	have:9
+really	great:9
+really	time:9
+really	so:10
+really	one:10
+really	like:10
+really	but:16
+about:48
+about	not:9
+about	they:9
+about	be:10
+about	as:10
+about	on:10
+about	know:10
+about	was:11
+about	have:12
+about	so:12
+about	music:12
+about	but:13
+who:49
+who	music:9
+who	all:9
+who	when:9
+who	just:9
+who	can:10
+who	are:10
+who	for:10
+who	know:11
+who	one:12
+who	have:12
+who	was:16
+much:49
+much	but:9
+much	music:9
+much	with:9
+much	what:10
+much	he:10
+much	for:16
+much	for	so:9
+much	so:28
+good:50
+good	have:9
+good	one:9
+good	like:10
+good	as:11
+good	was:11
+good	so:13
+good	music:15
+good	but:15
+now:51
+now	like:9
+now	with:9
+now	songs:10
+now	from:10
+now	he:11
+now	music:12
+now	for:14
+now	was:14
+always:51
+always	was:9
+always	be:9
+always	but:9
+always	they:9
+always	for:10
+always	what:11
+always	have:11
+always	will:13
+his:52
+his	have:9
+his	for:9
+his	but:9
+his	with:10
+his	music:11
+his	voice:11
+his	was:15
+his	was	he:11
+his	so:15
+his	so	he:9
+his	he:26
+know:52
+know	have:10
+know	on:10
+know	so:10
+know	what:10
+know	with:11
+know	all:11
+know	but:12
+know	not:12
+know	was:14
+never:53
+never	like:9
+never	time:9
+never	so:9
+never	she:9
+never	but:11
+never	was:12
+never	have:12
+never	music:12
+never	be:13
+never	for:13
+never	will:20
+no:54
+no	so:9
+no	me:9
+no	can:9
+no	with:10
+no	not:10
+no	just:10
+no	will:10
+no	have:11
+no	but:12
+no	be:12
+no	was:13
+no	like:14
+no	music:16
+no	one:18
+at:55
+at	he:9
+at	me:9
+at	music:10
+at	for:11
+at	but:11
+at	with:11
+at	have:12
+at	all:12
+at	so:12
+at	was:13
+at	what:13
+are:57
+are	when:9
+are	time:9
+are	have:9
+are	like:9
+are	they:9
+are	with:9
+are	music:10
+are	all:13
+are	not:13
+she:59
+she	what:9
+she	one:10
+she	but:10
+she	can:10
+she	with:10
+she	just:10
+she	have:11
+she	beautiful:11
+she	like:11
+she	was:18
+she	voice:23
+she	voice	her:14
+she	her:25
+from:60
+from	when:9
+from	with:9
+from	so:9
+from	for:9
+from	all:9
+from	beautiful:9
+from	one:10
+from	songs:10
+from	but:10
+from	can:11
+from	was:14
+from	music:18
+they:61
+they	on:9
+they	will:9
+they	great:10
+they	but:10
+they	all:10
+they	one:11
+they	what:11
+they	so:11
+they	with:11
+they	not:12
+they	just:12
+they	like:13
+they	music:13
+they	have:16
+they	songs:16
+they	for:19
+as:61
+as	will:9
+as	great:10
+as	can:10
+as	music:11
+as	not:11
+as	have:11
+as	be:11
+as	for:11
+as	he:12
+as	was:13
+as	so:14
+as	one:17
+as	but:22
+her:63
+her	all:9
+her	can:11
+her	with:11
+her	but:12
+her	beautiful:12
+her	for:12
+her	was:12
+her	so:13
+her	voice:26
+will:64
+will	for:9
+will	he:9
+will	time:10
+will	all:10
+will	but:11
+will	like:11
+will	have:11
+will	was:12
+will	on:12
+will	one:12
+will	music:15
+will	be:26
+when:68
+when	have:9
+when	with:9
+when	for:9
+when	but:10
+when	one:10
+when	can:11
+when	music:12
+when	he:15
+when	was:20
+songs:71
+songs	was:9
+songs	beautiful:10
+songs	just:10
+songs	like:11
+songs	great:11
+songs	all:12
+songs	have:12
+songs	what:12
+songs	music:12
+songs	so:12
+songs	with:13
+songs	for:13
+songs	but:14
+songs	one:17
+time:72
+time	like:9
+time	what:9
+time	for:10
+time	but:10
+time	music:11
+time	with:11
+time	have:13
+time	so:15
+time	was:18
+time	one:19
+time	one	all:11
+time	all:23
+just:77
+just	not:9
+just	one:9
+just	can:9
+just	for:11
+just	music:12
+just	like:14
+just	so:15
+just	but:15
+just	me:16
+just	was:16
+just	have:16
+he:78
+he	on:9
+he	music:9
+he	be:9
+he	like:10
+he	with:11
+he	what:11
+he	voice:11
+he	all:12
+he	me:12
+he	not:13
+he	have:13
+he	for:18
+he	for	was:9
+he	but:19
+he	so:21
+he	was:33
+beautiful:78
+beautiful	be:9
+beautiful	like:9
+beautiful	for:9
+beautiful	me:9
+beautiful	one:10
+beautiful	what:12
+beautiful	was:12
+beautiful	with:12
+beautiful	music:16
+beautiful	voice:19
+beautiful	so:22
+voice:79
+voice	great:10
+voice	but:10
+voice	have:12
+voice	one:12
+voice	can:12
+voice	was:12
+voice	for:13
+voice	with:13
+voice	music:15
+voice	like:15
+voice	so:16
+voice	what:18
+be:79
+be	great:9
+be	me:9
+be	not:10
+be	so:11
+be	what:11
+be	like:11
+be	with:12
+be	one:13
+be	music:14
+be	for:14
+be	all:15
+be	but:16
+be	can:16
+be	was:17
+be	have:17
+what:82
+what	have:10
+what	one:11
+what	not:12
+what	for:13
+what	all:14
+what	with:15
+what	great:15
+what	but:16
+what	like:17
+what	like	music:9
+what	so:18
+what	was:19
+what	music:21
+me:83
+me	on:9
+me	but:10
+me	music:10
+me	with:10
+me	one:10
+me	have:12
+me	not:12
+me	like:13
+me	so:14
+me	for:15
+me	was:15
+me	can:17
+on:84
+on	one:10
+on	like:10
+on	was:10
+on	not:10
+on	but:10
+on	great:11
+on	can:11
+on	music:13
+on	so:14
+on	have:14
+on	for:16
+can:85
+can	all:12
+can	so:13
+can	have:13
+can	one:14
+can	for:15
+can	like:16
+can	music:18
+can	with:19
+can	but:20
+great:85
+great	can:10
+great	not:11
+great	music:12
+great	was:15
+great	have:15
+great	have	but:9
+great	with:15
+great	all:16
+great	for:19
+great	one:19
+great	so:20
+great	but:21
+all:87
+all	like:9
+all	so:11
+all	with:14
+all	for:16
+all	but:18
+all	was:18
+all	have:19
+all	one:22
+all	music:26
+not:87
+not	with:9
+not	for:10
+not	all:12
+not	one:14
+not	was:15
+not	so:16
+not	like:17
+not	have:18
+not	have	but:10
+not	music:20
+not	but:29
+with:96
+with	like:12
+with	was:14
+with	have:16
+with	one:17
+with	music:18
+with	for:19
+with	but:19
+with	so:21
+like:98
+like	for:13
+like	was:14
+like	so:15
+like	have:20
+like	one:20
+like	one	but:9
+like	but:24
+like	music:25
+but:101
+but	music:14
+but	for:17
+but	so:19
+but	was:21
+but	one:24
+but	have:25
+have:104
+have	so:13
+have	was:18
+have	music:18
+have	for:24
+one:104
+one	was:11
+one	have:14
+one	so:18
+one	music:18
+one	for:22
+so:116
+so	music:19
+so	was:20
+so	for:23
+was:121
+was	music:22
+was	for:24
+for:122
+for	music:16
+music:123
